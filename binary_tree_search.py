@@ -62,6 +62,6 @@ root = insert(root, 4)
 # print('min')
 # root = get_min(root)
 # inorder(root)
-#
-# print("Inorder traversal: ", end=' ')
-# inorder(root)
+
+print("Inorder traversal: ", end=' ')
+inorder(root)
